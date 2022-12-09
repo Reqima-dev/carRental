@@ -1,6 +1,6 @@
 {
-  "homepage": "https://reqima-dev.github.io/carRental",
   "name": "car-rental",
+  "homepage": "https://reqima-dev.github.io/carRental",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
