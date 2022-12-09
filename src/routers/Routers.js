@@ -13,7 +13,6 @@ const Routers = () => {
   return (
     <BrowserRouter basename="/carRental">
       <Routes>
-        <Route path="/" element={<Navigate to="/home" />} />
         <Route exact path="/carRental" element={<Home />} />
         <Route path="/home" element={<Home />} />
         <Route path="/about" element={<About />} />
